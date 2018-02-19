@@ -1,0 +1,5 @@
+package easytracebot
+
+func main() {
+
+}
